@@ -1,0 +1,23 @@
+.body{
+    background-image: url(img/bg_4.jpg.webp);
+    background-size: cover;
+}
+
+.tpimg{
+    display: flex;
+}
+.photo img{
+    width: 900px;
+    height: 600px;
+}
+
+.txt{
+  padding: 8% 13% 8% 5%;
+    width: 50%;
+  }
+
+  .box{
+    margin-left: -150px;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.5);
+  }
